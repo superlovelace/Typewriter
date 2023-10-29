@@ -1,0 +1,31 @@
+        #output-container {
+            margin-top: 2%;
+            margin-left: 40%;
+            /* 字体库，如果第一个找不到，就用第二个，依次类推 */
+            font-family: "Soehne", system-ui, -apple-system, Helvetica Neue, Arial, sans-serif;
+            border: 2px solid #FFF;
+            padding: 10px;
+            width: 400px;
+            height: 800px;
+            overflow: hidden;
+            position: relative;
+            overflow: auto;; /* 允许垂直滚动 */
+            word-wrap: break-word;/* 文字自动换行 */
+        }
+
+       #text {  
+          border-left:0px;
+          animation:  borderBlink .6s ease-in-out infinite alternate; /* 边框闪烁动画 */
+          background-color:#2D712A;
+          color: white;
+          white-space: pre-wrap;
+          font-size: 1rem;
+          line-height: 130%;
+          letter-spacing: 0;
+          -webkit-font-smoothing: antialiased;
+        }
+
+       @keyframes borderBlink {
+            0%{ border-right-color: initial;}
+            100% { border-color: transparent; }
+        }
