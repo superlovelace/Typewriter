@@ -28,8 +28,8 @@
 ```html
 <div id="output-container">
 	<span id="text">
-        Dear Bieber,#Words cannot express how excited I feel at this moment when I hear that you are going to visit China, and it is also my honor to recommend Beijing, one of the most popular traveling cities, to you.#Beijing, as the capital of 7 dynasties, is full of ancient relics. Architectures, towers and sculptures which reflect the profoundness of history can be seen everywhere. Moreover, snacks in Beijing, such as Roast duck, Soybean cake and Stewed Liver will offer a wonderful experience of tastes. Besides, you will be surely welcomed in this strange city, because people here are always friendly and warm-hearted.#When it comes to the way of traveling, you can choose a group tour. However, to get more fun, you might as well select self-service tour. I sincerely hope that you could take my recommendation into consideration and that you could enjoy your staying in Beijing.#Truly yours,#Li Ming
-    </span>
+		Dear Bieber,#Words cannot express how excited I feel at this moment when I hear that you are going to visit China, and it is also my honor to recommend Beijing, one of the most popular traveling cities, to you.#Beijing, as the capital of 7 dynasties, is full of ancient relics. Architectures, towers and sculptures which reflect the profoundness of history can be seen everywhere. Moreover, snacks in Beijing, such as Roast duck, Soybean cake and Stewed Liver will offer a wonderful experience of tastes. Besides, you will be surely welcomed in this strange city, because people here are always friendly and warm-hearted.#When it comes to the way of traveling, you can choose a group tour. However, to get more fun, you might as well select self-service tour. I sincerely hope that you could take my recommendation into consideration and that you could enjoy your staying in Beijing.#Truly yours,#Li Ming
+	</span>
 </div>
 ```
 
